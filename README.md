@@ -1,0 +1,1 @@
+# odd-xx-sequence-pattarn-rint
